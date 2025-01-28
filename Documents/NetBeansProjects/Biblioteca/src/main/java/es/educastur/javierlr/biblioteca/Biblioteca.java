@@ -9,10 +9,7 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- *
- * @author alu14d
- */
+//iker estuvo aquí
 public class Biblioteca {
  
     private ArrayList <Libro> libros;
